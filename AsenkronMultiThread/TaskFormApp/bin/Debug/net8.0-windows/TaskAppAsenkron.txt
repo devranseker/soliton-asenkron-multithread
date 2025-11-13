@@ -1,0 +1,50 @@
+Satır 1: Merhaba dünya
+Satır 2: Bu bir örnek dosyadır
+Satır 3: Task ile çoklu iş parçacığı (multithread) yazısı
+Satır 4: Her satır ayrı bir kayıt
+Satır 5: Log entry 1
+Satır 6: Log entry 2
+Satır 7: Log entry 3
+Satır 8: Log entry 4
+Satır 9: Log entry 5
+Satır 10: Örnek veri satırı
+Satır 11: User action A
+Satır 12: User action B
+Satır 13: İşlem başarılı
+Satır 14: Hata yok
+Satır 15: İşlem tamamlandı
+Satır 16: Zaman damgası: 2025-10-30 22:00:00
+Satır 17: Zaman damgası: 2025-10-30 22:00:01
+Satır 18: Zaman damgası: 2025-10-30 22:00:02
+Satır 19: Test kaydı
+Satır 20: Sonraki işlem bekleniyor
+Satır 21: Thread 1 çıktı
+Satır 22: Thread 2 çıktı
+Satır 23: Thread 3 çıktı
+Satır 24: Thread 4 çıktı
+Satır 25: Thread 5 çıktı
+Satır 26: Bilgi: İşlem devam ediyor
+Satır 27: Bilgi: İşlem devam ediyor 2
+Satır 28: Bilgi: İşlem devam ediyor 3
+Satır 29: Uyarı: Yaklaşan sınır
+Satır 30: Uyarı: Disk alanı az
+Satır 31: Debug: value=123
+Satır 32: Debug: value=456
+Satır 33: Debug: value=789
+Satır 34: Kullanıcı: Devran
+Satır 35: Modül: Veriİşleme
+Satır 36: Adım: Başlat
+Satır 37: Adım: Orta
+Satır 38: Adım: Bitiş
+Satır 39: Son: OK
+Satır 40: Ek bilgi: none
+Satır 41: Note: sample
+Satır 42: Note: sample 2
+Satır 43: Random: a1b2c3
+Satır 44: Random: d4e5f6
+Satır 45: Random: g7h8i9
+Satır 46: Final: 46
+Satır 47: Final: 47
+Satır 48: Final: 48
+Satır 49: Final: 49
+Satır 50: Final: 50
